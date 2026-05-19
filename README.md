@@ -46,3 +46,10 @@ Aqui eu criei uma tela para o app de rastreamento de consumo de água com meta d
 
 ![Tela do app](./aula04-contador-hidratacao/docs/print_aula_04_projeto.png)
 
+
+## Aula 05 — Layout, Telas & Navegação
+
+Nesse exercício eu criei o mini-app com 2 telas e navegação entre elas usando Expo Router. Tem a estrutura de rotas baseada em arquivos dentro da pasta app/, configuração do Stack Navigator via _layout.tsx e navegação programática com useRouter. A tela de perfil utiliza Flexbox com flexDirection: 'row' para exibir os cards de tecnologias lado a lado e o botão de voltar usa router.back() para retornar à tela anterior.
+
+![Tela do app](./aula05-meu-perfil/docs/print1_aula_05_projeto.png)
+![Tela do app](./aula05-meu-perfil/docs/print2_aula_05_projeto.png)
