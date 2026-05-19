@@ -61,3 +61,13 @@ Nesse exercício, criei o app de lista de tarefas com persistência de dados usa
 
 ![Tela do app](./aula06-memolist/docs/print1_aula_06_projeto.png)
 ![Tela do app](./aula06-memolist/docs/print2_aula_06_projeto.png)
+
+
+## Aula 07 — Gerenciamento de Estado Global e Mock de Dados
+
+
+
+
+![Tela do app](./aula07-mini-loja/docs/print1_aula_07_projeto.png)
+![Tela do app](./aula07-mini-loja/docs/print2_aula_07_projeto.png)
+![Tela do app](./aula07-mini-loja/docs/print3_aula_07_projeto.png)

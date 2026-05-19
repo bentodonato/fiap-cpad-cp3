@@ -1,0 +1,51 @@
+export const produtos = [
+  {
+    id: '1',
+    nome: 'Coca-Cola 350ml',
+    preco: 4.99,
+    emoji: '🥤',
+    imagem: require('../docs/coca_cola_350ml.png'),
+  },
+  {
+    id: '2',
+    nome: 'Biscoito Cracker',
+    preco: 6.49,
+    emoji: '🍪',
+    imagem: require('../docs/biscoito_cracker_vilma.png'),
+  },
+  {
+    id: '3',
+    nome: 'Biscoito Oreo',
+    preco: 7.90,
+    emoji: '🍫',
+    imagem: require('../docs/biscoito_blue_riband.png'),
+  },
+  {
+    id: '4',
+    nome: 'Biscoito Pavesino',
+    preco: 5.99,
+    emoji: '🍘',
+    imagem: require('../docs/biscoito_pavesino.png'),
+  },
+  {
+    id: '5',
+    nome: 'Pipoca Kisabor',
+    preco: 3.49,
+    emoji: '🍿',
+    imagem: require('../docs/pipoca_kisabor.png'),
+  },
+  {
+    id: '6',
+    nome: 'Suco Del Valle Maçã',
+    preco: 5.29,
+    emoji: '🍎',
+    imagem: require('../docs/suco_del_valle_maca.png'),
+  },
+  {
+    id: '7',
+    nome: 'Suco Del Valle Uva',
+    preco: 5.29,
+    emoji: '🍇',
+    imagem: require('../docs/suco_del_valle_uva.png'),
+  },
+];
