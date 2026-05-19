@@ -71,3 +71,12 @@ Nesse exercício, criei o app de lista de tarefas com persistência de dados usa
 ![Tela do app](./aula07-mini-loja/docs/print1_aula_07_projeto.png)
 ![Tela do app](./aula07-mini-loja/docs/print2_aula_07_projeto.png)
 ![Tela do app](./aula07-mini-loja/docs/print3_aula_07_projeto.png)
+
+
+
+## Aula 09 — Cadastro Completo com Máscaras e Validação
+
+Nesse exercício eu desenvolvi um formulário de cadastro completo utilizando React Native com Expo. O app possui campos de nome, e-mail, CPF e telefone com máscaras aplicadas via regex para melhorar a experiência do usuário. Foi utilizado useRef para navegação automática entre os campos através do teclado do dispositivo. Também foi implementada seleção de perfil utilizando chips interativos, aceite de termos com Switch e validação completa dos campos com exibição de erros inline abaixo dos inputs.
+
+![Tela do app](./aula09-cadastro-completo/docs/print1_aula_09_projeto.png)
+![Tela do app](./aula09-cadastro-completo/docs/print2_aula_09_projeto.png)
