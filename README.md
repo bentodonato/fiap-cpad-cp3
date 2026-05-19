@@ -12,10 +12,10 @@
 |------|-----------|-------|
 | 03 | Cartão de Visita Digital | [aula03-cartao-visita](./aula03-cartao-visita/) |
 | 04 | Contador de Hidratação | [aula04-contador-hidratacao](./aula04-contador-hidratacao/) |
-| 05 | Meu Perfil | |
-| 06 | MemoList |  |
-| 07 | Mini Loja |  |
-| 09 | Cadastro Completo |  |
+| 05 | Meu Perfil | [aula05-meu-perfil](./aula05-meu-perfil/) |
+| 06 | MemoList | [aula06-memolist](./aula06-memolist/) |
+| 07 | Mini Loja | [aula07-mini-loja](./aula07-mini-loja/) |
+| 09 | Cadastro Completo | [aula09-cadastro-completo](./aula09-cadastro-completo/) |
 
 ---
 
