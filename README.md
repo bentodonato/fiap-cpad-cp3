@@ -53,3 +53,11 @@ Nesse exercício eu criei o mini-app com 2 telas e navegação entre elas usando
 
 ![Tela do app](./aula05-meu-perfil/docs/print1_aula_05_projeto.png)
 ![Tela do app](./aula05-meu-perfil/docs/print2_aula_05_projeto.png)
+
+
+## Aula 06 — MemoList: Lista de Tarefas com Persistência
+
+Nesse exercício, criei o app de lista de tarefas com persistência de dados usando AsyncStorage. Foi usado a separação de componentes criando o TarefaItem.js na pasta components/, o uso do Switch para marcar tarefas como concluídas com texto riscado via textDecorationLine, e FlatList para renderizar a lista. O useEffect foi utilizado em duas coisas: carregar os dados salvos ao abrir o app e para salvar automaticamente no AsyncStorage sempre que a lista é alterada, garantindo persistência entre sessões.
+
+![Tela do app](./aula06-memolist/docs/print1_aula_06_projeto.png)
+![Tela do app](./aula06-memolist/docs/print2_aula_06_projeto.png)
